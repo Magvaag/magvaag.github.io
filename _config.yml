@@ -1,0 +1,4 @@
+title: "Magnus' PhD Notes"
+theme: minima
+plugins:
+  - jekyll-feed
